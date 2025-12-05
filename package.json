@@ -1,0 +1,11 @@
+{
+  "name": "adventofcode2025",
+  "version": "0.1.0",
+  "description": "Node project for solving AoC25",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:CasualBot/adventofcode2025.git"
+  },
+  "author": "CasualBot",
+  "license": "MIT"
+}
